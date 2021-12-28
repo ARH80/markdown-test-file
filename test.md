@@ -100,8 +100,9 @@ A general naïve bayes model has the form below that Y is our label variable and
 ![](./images/bayes_net.png)
 
 As a result of bayes net above and bayes theorem we can say that:
-$a=b$
-
+$
+H(x)=-\sum_{i=1}^{N}p_i\log_{2}p_i
+$
 #### Advantages of Naïve Bayes Classifier
 
 *   It is fast and not that much complicated.
