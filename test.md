@@ -100,6 +100,7 @@ A general naïve bayes model has the form below that Y is our label variable and
 ![](./images/bayes_net.png)
 
 As a result of bayes net above and bayes theorem we can say that:
+$a=b$
 
 #### Advantages of Naïve Bayes Classifier
 
